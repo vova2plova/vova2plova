@@ -8,5 +8,4 @@
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img src="https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/> 
-<img src="https://img.shields.io/endpoint?color=white&label=C%23&logoColor=blue&style=for-the-badge">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
