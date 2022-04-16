@@ -1,4 +1,3 @@
- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/rlinkfen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) </br>
  <img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/> 
  <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
