@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"/>
 <img src="https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ [![Vova2plova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vova2plova&show_icons=true&border_radius=12&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vova2plova&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-[![Vova2plova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vova2plova&show_icons=true&border_radius=12&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vova2plova&theme=buefy&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+
+
